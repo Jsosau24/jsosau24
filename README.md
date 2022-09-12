@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Web Development and Back End Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **Jsosau24@colby.edu**
 
