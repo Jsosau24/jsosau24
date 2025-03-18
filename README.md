@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jonna Sosa</h1>
-<h3 align="center">A passionate international student from Mexico in Junior year from Colby College</h3>
+<h3 align="center">Grad from Colby College (Econ & CS double major), Tech Consultant</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Data Analytics, ML/AI & **
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 📫 How to reach me **Jsosau24@colby.edu**
+- 📫 How to reach me **Jonathan.sosa.uranga@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RuCWp0Tn7B0XNMPffX7RNswqZvXYDMSk/view?usp=sharing](https://drive.google.com/file/d/1RuCWp0Tn7B0XNMPffX7RNswqZvXYDMSk/view?usp=sharing)
+- 📄 
 
-- ⚡ Fun fact **I am the captain on the Squash team**
+- ⚡ Fun fact **I was captain of the Squash Varsity team my JR and SR year **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
