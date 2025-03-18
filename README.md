@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on **Data Analytics, ML/AI &**
+- 🔭 I’m currently working on **Data Analytics, ML/AI & Tech Consulting**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
