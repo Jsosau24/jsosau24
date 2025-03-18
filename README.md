@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Analytics, ML/AI & Tech Consulting**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **ML & AI**
 
 - 📫 How to reach me **Jonathan.sosa.uranga@gmail.com**
 
